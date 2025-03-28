@@ -603,3 +603,57 @@
 [28Mar2025 20:20:35.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement ['X' Marks the Spot]
 [28Mar2025 20:21:13.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Acquire Hardware]
 [28Mar2025 20:29:56.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Isn't It Iron Pick]
+[28Mar2025 20:31:28.006] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[28Mar2025 20:31:28.119] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[28Mar2025 20:31:28.119] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[28Mar2025 20:31:28.119] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[28Mar2025 20:31:28.236] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[28Mar2025 20:31:28.236] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[28Mar2025 20:31:28.487] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[28Mar2025 20:31:28.488] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[28Mar2025 20:31:28.563] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[28Mar2025 20:31:28.564] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[28Mar2025 20:31:28.596] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[28Mar2025 20:31:28.596] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[28Mar2025 20:31:40.595] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[28Mar2025 20:31:40.620] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[28Mar2025 20:31:43.020] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[28Mar2025 20:31:43.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Far From Perfect]
+[28Mar2025 20:31:45.180] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[28Mar2025 20:31:57.849] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6aa502ed[id=<null>,name=ZzBaal_,properties={},legacy=false] (/127.108.185.56:45747): Took too long to log in
+[28Mar2025 20:31:57.850] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6aa502ed[id=<null>,name=ZzBaal_,properties={},legacy=false] (/127.108.185.56:45747) lost connection: Took too long to log in
+[28Mar2025 20:31:57.893] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Mar2025 20:32:28.453] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[28Mar2025 20:32:28.565] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[28Mar2025 20:32:28.565] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[28Mar2025 20:32:28.693] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[28Mar2025 20:32:28.693] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[28Mar2025 20:32:28.806] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[28Mar2025 20:32:28.845] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[28Mar2025 20:32:28.934] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[28Mar2025 20:32:28.934] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[28Mar2025 20:32:28.934] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[28Mar2025 20:32:29.045] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[28Mar2025 20:32:29.045] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[28Mar2025 20:32:31.285] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[28Mar2025 20:32:31.285] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[28Mar2025 20:32:31.381] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[28Mar2025 20:32:31.845] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[28Mar2025 20:32:56.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZzBaal_[/127.108.185.56:40299] logged in with entity id 7203 at (-1559.300000011921, 69.0, 7102.300000011921)
+[28Mar2025 20:32:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ joined the game
+[28Mar2025 20:32:56.821] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8ac19fef-2e6a-373a-8fe4-ac9a866616d0
+[28Mar2025 20:32:56.823] [Server thread/INFO] [Jade/]: Syncing config to ZzBaal_ (8ac19fef-2e6a-373a-8fe4-ac9a866616d0)
+[28Mar2025 20:32:59.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ZzBaal_ (18)
+[28Mar2025 20:32:59.014] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZzBaal_
+[28Mar2025 20:32:59.315] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ZzBaal_ (8ac19fef-2e6a-373a-8fe4-ac9a866616d0)
+[28Mar2025 20:38:44.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reiner1411> t
+[28Mar2025 20:38:51.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZzBaal_> hijo puta
+[28Mar2025 20:39:22.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was shot by Skeleton
+[28Mar2025 20:39:31.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['reiner1411'/11456, l='ServerLevel[world]', x=-1442.39, y=68.00, z=7020.02] died: reiner1411 was slain by ZzBaal_
+[28Mar2025 20:39:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was slain by Spider
+[28Mar2025 20:39:52.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was slain by reiner1411
+[28Mar2025 20:40:24.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[28Mar2025 20:40:32.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 bled to death
+[28Mar2025 20:40:35.811] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['reiner1411'/11897, l='ServerLevel[world]', x=-1519.64, y=70.00, z=7046.40] died: reiner1411 was slain by ZzBaal_
+[28Mar2025 20:40:43.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 didn't manage to keep wet because they were fighting Skeleton
+[28Mar2025 20:40:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 didn't manage to keep wet because they were fighting Zombie

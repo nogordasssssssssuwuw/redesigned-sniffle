@@ -1787,6 +1787,7 @@
       "minecraft:river": "2025-03-28 15:05:56 +0000",
       "minecraft:forest": "2025-03-28 20:23:17 +0000",
       "minecraft:flower_forest": "2025-03-28 15:05:51 +0000",
+      "minecraft:savanna": "2025-03-28 20:30:39 +0000",
       "minecraft:plains": "2025-03-28 15:07:22 +0000"
     },
     "done": false
@@ -2293,6 +2294,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-28 15:18:33 +0000",
       "cooked_mutton": "2025-03-28 20:10:20 +0000",
+      "cooked_beef": "2025-03-28 20:35:12 +0000",
       "apple": "2025-03-28 15:18:20 +0000"
     },
     "done": false
@@ -2597,6 +2599,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-28 20:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-28 20:29:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-28 20:21:13 +0000"
@@ -2657,9 +2671,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-03-28 20:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-28 20:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-03-28 20:26:32 +0000"
     },
     "done": true
   },
@@ -2681,6 +2707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-28 20:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-03-28 20:06:20 +0000"
@@ -2690,6 +2722,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-28 20:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-28 20:31:57 +0000"
     },
     "done": true
   },
@@ -2717,9 +2755,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-28 20:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-28 20:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-28 20:32:32 +0000"
     },
     "done": true
   },
@@ -2783,9 +2833,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-28 20:32:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-03-28 20:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-03-28 20:32:02 +0000"
     },
     "done": true
   },
@@ -2810,6 +2872,24 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-03-28 20:21:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-03-28 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-28 20:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-28 20:34:42 +0000"
     },
     "done": true
   },
@@ -2858,6 +2938,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-28 20:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-28 20:34:42 +0000"
     },
     "done": true
   },
