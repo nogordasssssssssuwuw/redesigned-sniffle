@@ -612,3 +612,11 @@
 [28Mar2025 15:17:05.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported reiner1411 to ZzBaal_]
 [28Mar2025 15:17:44.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported ZzBaal_ to -1467.500000, 68.500000, 7037.500000]
 [28Mar2025 15:17:53.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported reiner1411 to ZzBaal_]
+[28Mar2025 15:24:31.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was doomed to fall by Zombie
+[28Mar2025 15:24:37.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['reiner1411'/9678, l='ServerLevel[world]', x=-1567.08, y=24.00, z=7065.18] died: reiner1411 was slain by ZzBaal_
+[28Mar2025 15:25:18.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Not a Diamond]
+[28Mar2025 15:27:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 bled to death
+[28Mar2025 15:28:06.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 suffocated in a wall
+[28Mar2025 15:28:22.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported reiner1411 to ZzBaal_]
+[28Mar2025 15:29:13.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was slain by reiner1411
+[28Mar2025 15:29:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported reiner1411 to ZzBaal_]
