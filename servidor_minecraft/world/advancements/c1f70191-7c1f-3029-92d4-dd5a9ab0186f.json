@@ -2295,6 +2295,7 @@
       "cooked_porkchop": "2025-03-28 15:18:33 +0000",
       "cooked_mutton": "2025-03-28 20:10:20 +0000",
       "cooked_beef": "2025-03-28 20:35:12 +0000",
+      "beef": "2025-03-28 20:40:32 +0000",
       "apple": "2025-03-28 15:18:20 +0000"
     },
     "done": false
@@ -2715,6 +2716,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-28 20:39:24 +0000",
       "minecraft:zombie": "2025-03-28 20:06:20 +0000"
     },
     "done": false
@@ -2740,6 +2742,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-03-28 20:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-28 20:39:35 +0000"
     },
     "done": true
   },
