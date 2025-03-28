@@ -620,3 +620,105 @@
 [28Mar2025 15:28:22.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported reiner1411 to ZzBaal_]
 [28Mar2025 15:29:13.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was slain by reiner1411
 [28Mar2025 15:29:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported reiner1411 to ZzBaal_]
+[28Mar2025 15:29:57.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was slain by The Damned
+[28Mar2025 15:29:57.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Condemned To Die]
+[28Mar2025 15:30:05.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported reiner1411 to ZzBaal_]
+[28Mar2025 15:30:43.659] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['reiner1411'/10290, l='ServerLevel[world]', x=-1590.31, y=30.00, z=7066.91] died: reiner1411 was slain by ZzBaal_
+[28Mar2025 15:31:15.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reiner1411> q ww
+[28Mar2025 15:31:33.727] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Capability missing for c1f70191-7c1f-3029-92d4-dd5a9ab0186f
+	Index: 13
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		2: NORMAL
+		3: ASM: xaero.pac.common.event.CommonEventsForge@1887aac onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		4: net.minecraftforge.eventbus.EventBus$$Lambda$4228/0x00007c2070ba4d18@2ae152f9
+		5: net.minecraftforge.eventbus.EventBus$$Lambda$4228/0x00007c2070ba4d18@75d59837
+		6: net.minecraftforge.eventbus.EventBus$$Lambda$4228/0x00007c2070ba4d18@18987a31
+		7: ASM: class dev.shadowsoffire.placebo.util.PlaceboTaskQueue tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		8: ASM: net.cisco.CiscoModMod@1d6f9d12 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		9: ASM: net.minecraftforge.common.ForgeInternalHandler@7f5e6f88 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		10: ASM: class org.zeith.improvableskills.data.PlayerDataManager serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		11: ASM: class org.zeith.hammerlib.event.listeners.ServerListener serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		12: ASM: net.arphex.ArphexMod@7563da3 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		13: ASM: apollyon.ApollyonMod@4bd4455e tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		14: ASM: pregenerator.common.utils.config.impl.internal.EventHandler@29234a82 onServerTickEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		15: ASM: pregenerator.common.tracker.ServerTracker@5eefd836 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		16: ASM: class noobanidus.mods.lootr.entity.EntityTicker onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		17: ASM: class noobanidus.mods.lootr.block.entities.TileTicker serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		18: ASM: class com.hollingsworth.arsnouveau.api.event.EventQueue serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		19: ASM: fr.rakambda.fallingtree.forge.event.LeafBreakingListener@4462848 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		20: ASM: com.mrcrayfish.framework.event.ForgeEvents@54e28df8 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		21: ASM: carbonconfiglib.impl.internal.EventHandler@2d482b0c onServerTickEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		22: net.minecraftforge.eventbus.EventBus$$Lambda$4228/0x00007c2070ba4d18@16ed97db
+		23: ASM: pregenerator.common.manager.ServerManager@1f7405 onTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+java.lang.IllegalStateException: Capability missing for c1f70191-7c1f-3029-92d4-dd5a9ab0186f
+	at me.lucko.luckperms.forge.capabilities.UserCapabilityImpl.lambda$get$0(UserCapabilityImpl.java:66)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at me.lucko.luckperms.forge.capabilities.UserCapabilityImpl.get(UserCapabilityImpl.java:66)
+	at me.lucko.luckperms.forge.util.BrigadierInjector$InjectedPermissionRequirement.test(BrigadierInjector.java:143)
+	at me.lucko.luckperms.forge.util.BrigadierInjector$InjectedPermissionRequirement.test(BrigadierInjector.java:129)
+	at MC-BOOTSTRAP/brigadier@1.1.8/com.mojang.brigadier.tree.CommandNode.canUse(CommandNode.java:65)
+	at MC-BOOTSTRAP/brigadier@1.1.8/com.mojang.brigadier.CommandDispatcher.parseNodes(CommandDispatcher.java:359)
+	at MC-BOOTSTRAP/brigadier@1.1.8/com.mojang.brigadier.CommandDispatcher.parse(CommandDispatcher.java:349)
+	at MC-BOOTSTRAP/brigadier@1.1.8/com.mojang.brigadier.CommandDispatcher.parse(CommandDispatcher.java:317)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.commands.Commands.m_230957_(Commands.java:237)
+	at TRANSFORMER/apollyon@1.1.1/apollyon.procedures.TheDamnedCollidesProcedure.lambda$execute$0(TheDamnedCollidesProcedure.java:87)
+	at TRANSFORMER/apollyon@1.1.1/apollyon.ApollyonMod.lambda$tick$2(ApollyonMod.java:87)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at TRANSFORMER/apollyon@1.1.1/apollyon.ApollyonMod.tick(ApollyonMod.java:87)
+	at TRANSFORMER/apollyon@1.1.1/apollyon.__ApollyonMod_tick_ServerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:950)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:835)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[28Mar2025 15:31:33.728] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+java.lang.IllegalStateException: Capability missing for c1f70191-7c1f-3029-92d4-dd5a9ab0186f
+	at me.lucko.luckperms.forge.capabilities.UserCapabilityImpl.lambda$get$0(UserCapabilityImpl.java:66) ~[?:?]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23268!/:?]
+	at me.lucko.luckperms.forge.capabilities.UserCapabilityImpl.get(UserCapabilityImpl.java:66) ~[?:?]
+	at me.lucko.luckperms.forge.util.BrigadierInjector$InjectedPermissionRequirement.test(BrigadierInjector.java:143) ~[?:?]
+	at me.lucko.luckperms.forge.util.BrigadierInjector$InjectedPermissionRequirement.test(BrigadierInjector.java:129) ~[?:?]
+	at com.mojang.brigadier.tree.CommandNode.canUse(CommandNode.java:65) ~[brigadier-1.1.8.jar%2376!/:?]
+	at com.mojang.brigadier.CommandDispatcher.parseNodes(CommandDispatcher.java:359) ~[brigadier-1.1.8.jar%2376!/:?]
+	at com.mojang.brigadier.CommandDispatcher.parse(CommandDispatcher.java:349) ~[brigadier-1.1.8.jar%2376!/:?]
+	at com.mojang.brigadier.CommandDispatcher.parse(CommandDispatcher.java:317) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_230957_(Commands.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at apollyon.procedures.TheDamnedCollidesProcedure.lambda$execute$0(TheDamnedCollidesProcedure.java:87) ~[Apollyon%20v1.1.1%20(Forge%201.20.1).jar%23183!/:?]
+	at apollyon.ApollyonMod.lambda$tick$2(ApollyonMod.java:87) ~[Apollyon%20v1.1.1%20(Forge%201.20.1).jar%23183!/:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at apollyon.ApollyonMod.tick(ApollyonMod.java:87) ~[Apollyon%20v1.1.1%20(Forge%201.20.1).jar%23183!/:?]
+	at apollyon.__ApollyonMod_tick_ServerTickEvent.invoke(.dynamic) ~[Apollyon%20v1.1.1%20(Forge%201.20.1).jar%23183!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:950) ~[forge-1.20.1-47.3.7-universal.jar%23268!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:835) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[28Mar2025 15:31:33.760] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 7b91fa3a-a3b8-4c85-904a-5af18ea78ca2
+[28Mar2025 15:31:33.761] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/redesigned-sniffle/servidor_minecraft/./crash-reports/crash-2025-03-28_15.31.33-server.txt
+[28Mar2025 15:31:33.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Mar2025 15:31:33.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Mar2025 15:31:33.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Mar2025 15:31:34.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Mar2025 15:31:34.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Mar2025 15:31:34.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Mar2025 15:31:34.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_crawling
+[28Mar2025 15:31:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Mar2025 15:31:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Mar2025 15:31:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Mar2025 15:31:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
+[28Mar2025 15:31:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Mar2025 15:31:34.681] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[28Mar2025 15:31:34.684] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[28Mar2025 15:31:34.684] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@4180cfca
+[28Mar2025 15:31:34.685] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Mar2025 15:31:34.686] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Mar2025 15:31:34.688] [Server thread/INFO] [Framework/]: Finished unloading server configs
