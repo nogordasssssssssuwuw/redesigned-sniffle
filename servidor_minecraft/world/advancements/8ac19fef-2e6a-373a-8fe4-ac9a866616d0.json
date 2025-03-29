@@ -6065,6 +6065,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_healed": {
+    "criteria": {
+      "bleeding_healed": "2025-03-29 19:22:39 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-03-29 19:10:38 +0000"
