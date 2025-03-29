@@ -673,3 +673,8 @@
 [29Mar2025 21:46:59.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Leonard the Mighty'/10923, l='ServerLevel[world]', x=-2113.60, y=-57.10, z=311.07] died: Leonard the Mighty was slain by ZzBaal_
 [29Mar2025 21:47:31.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Donmorb the ... Something'/11007, l='ServerLevel[world]', x=-2113.48, y=-57.10, z=311.00] died: Donmorb the ... Something was slain by ZzBaal_
 [29Mar2025 21:50:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [A Realistical Logical Ideologist]
+[29Mar2025 22:31:21.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported ZzBaal_ to -6842.500000, 113.500000, 7254.500000]
+[29Mar2025 22:32:29.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -7.754458014129341,5.083681133746168,4.145563576047607
+[29Mar2025 22:34:53.782] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[29Mar2025 22:34:56.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[29Mar2025 22:35:23.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
