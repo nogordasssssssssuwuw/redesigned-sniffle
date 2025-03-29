@@ -6066,15 +6066,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-03-29 20:02:20 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_2": "2025-03-29 19:46:43 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-03-29 20:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-03-29 19:27:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-03-29 20:04:22 +0000"
     },
     "done": true
   },
@@ -6138,9 +6156,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-03-29 20:02:35 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_forging": {
     "criteria": {
       "dark_forging_0": "2025-03-29 19:55:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_0": "2025-03-29 20:07:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-03-29 20:02:20 +0000"
     },
     "done": true
   },
