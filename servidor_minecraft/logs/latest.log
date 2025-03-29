@@ -861,3 +861,5 @@ Missing minecraft:entity_type:
 [29Mar2025 19:46:43.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has reached the goal [Dark Creator]
 [29Mar2025 19:46:43.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Dark Metallurgy]
 [29Mar2025 19:49:13.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Gina the Warrior'/10043, l='ServerLevel[world]', x=-1192.45, y=65.00, z=6964.58] died: Gina the Warrior was slain by ZzBaal_
+[29Mar2025 19:55:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Dark Forging]
+[29Mar2025 19:57:58.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2300ms or 46 ticks behind

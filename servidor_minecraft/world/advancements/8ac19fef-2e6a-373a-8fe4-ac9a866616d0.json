@@ -3168,6 +3168,7 @@
       "minecraft:skeleton": "2025-03-23 15:03:44 +0000",
       "minecraft:ghast": "2025-03-26 05:44:28 +0000",
       "minecraft:hoglin": "2025-03-24 16:54:40 +0000",
+      "minecraft:vindicator": "2025-03-29 19:49:13 +0000",
       "minecraft:magma_cube": "2025-03-28 03:41:43 +0000",
       "minecraft:spider": "2025-03-23 15:03:59 +0000",
       "minecraft:creeper": "2025-03-23 15:22:44 +0000",
@@ -6065,15 +6066,39 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2025-03-29 19:46:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-03-29 19:27:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-29 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-03-29 19:44:25 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding_healed": {
     "criteria": {
       "bleeding_healed": "2025-03-29 19:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-29 19:44:37 +0000"
     },
     "done": true
   },
@@ -6089,15 +6114,51 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-03-29 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-29 19:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-29 19:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-03-29 19:27:59 +0000"
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-03-29 19:55:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-03-29 19:46:43 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-03-29 19:10:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-03-29 19:46:25 +0000"
     },
     "done": true
   },
