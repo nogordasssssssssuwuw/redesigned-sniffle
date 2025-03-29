@@ -640,3 +640,36 @@
 [29Mar2025 21:21:20.438] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZzBaal_
 [29Mar2025 21:21:29.930] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ZzBaal_ (8ac19fef-2e6a-373a-8fe4-ac9a866616d0)
 [29Mar2025 21:31:19.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Icicle the Sage'/9151, l='ServerLevel[world]', x=28.29, y=59.00, z=4143.35] died: Icicle the Sage was slain by ZzBaal_
+[29Mar2025 21:42:25.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ was kicked for floating too long!
+[29Mar2025 21:42:25.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ lost connection: Flying is not enabled on this server
+[29Mar2025 21:42:25.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ left the game
+[29Mar2025 21:42:25.717] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8ac19fef-2e6a-373a-8fe4-ac9a866616d0
+[29Mar2025 21:42:25.718] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ZzBaal_
+[29Mar2025 21:42:36.822] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[29Mar2025 21:42:37.004] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[29Mar2025 21:42:37.004] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[29Mar2025 21:42:37.143] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[29Mar2025 21:42:37.177] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[29Mar2025 21:42:37.177] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[29Mar2025 21:42:37.177] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[29Mar2025 21:42:37.279] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[29Mar2025 21:42:37.281] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[29Mar2025 21:42:37.282] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[29Mar2025 21:42:37.415] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[29Mar2025 21:42:37.418] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[29Mar2025 21:42:37.783] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[29Mar2025 21:42:37.823] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[29Mar2025 21:42:37.824] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[29Mar2025 21:42:37.836] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[29Mar2025 21:42:46.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZzBaal_[/127.29.101.194:51647] logged in with entity id 10316 at (-2165.5, -57.0, 311.5)
+[29Mar2025 21:42:46.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ joined the game
+[29Mar2025 21:42:46.741] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8ac19fef-2e6a-373a-8fe4-ac9a866616d0
+[29Mar2025 21:42:46.743] [Server thread/INFO] [Jade/]: Syncing config to ZzBaal_ (8ac19fef-2e6a-373a-8fe4-ac9a866616d0)
+[29Mar2025 21:42:47.266] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (505 ms, expected <50 ms!). Time map: [improvableskills:accelerated_furnace=505, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ladder_king=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[29Mar2025 21:42:47.661] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ZzBaal_ (18)
+[29Mar2025 21:42:47.662] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZzBaal_
+[29Mar2025 21:42:56.520] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ZzBaal_ (8ac19fef-2e6a-373a-8fe4-ac9a866616d0)
+[29Mar2025 21:45:56.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Madam Hellwolfsheep the Sticky'/10811, l='ServerLevel[world]', x=-2113.60, y=-57.10, z=311.07] died: Madam Hellwolfsheep the Sticky was slain by ZzBaal_
+[29Mar2025 21:46:59.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Leonard the Mighty'/10923, l='ServerLevel[world]', x=-2113.60, y=-57.10, z=311.07] died: Leonard the Mighty was slain by ZzBaal_
+[29Mar2025 21:47:31.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Donmorb the ... Something'/11007, l='ServerLevel[world]', x=-2113.48, y=-57.10, z=311.00] died: Donmorb the ... Something was slain by ZzBaal_
+[29Mar2025 21:50:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [A Realistical Logical Ideologist]
