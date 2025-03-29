@@ -583,3 +583,7 @@
 [29Mar2025 15:38:11.599] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [29Mar2025 15:38:11.599] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [29Mar2025 15:38:11.600] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[29Mar2025 15:40:55.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [A Ruined Citadel]
+[29Mar2025 15:41:19.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Obieaphsquid the Ogre Slayer'/3167, l='ServerLevel[world]', x=91.51, y=59.00, z=1095.06] died: Obieaphsquid the Ogre Slayer was slain by ZzBaal_
+[29Mar2025 15:44:34.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Palette Swap]
+[29Mar2025 15:44:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Bounty Box]
