@@ -639,3 +639,4 @@
 [29Mar2025 21:21:20.437] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ZzBaal_ (18)
 [29Mar2025 21:21:20.438] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZzBaal_
 [29Mar2025 21:21:29.930] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ZzBaal_ (8ac19fef-2e6a-373a-8fe4-ac9a866616d0)
+[29Mar2025 21:31:19.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Icicle the Sage'/9151, l='ServerLevel[world]', x=28.29, y=59.00, z=4143.35] died: Icicle the Sage was slain by ZzBaal_
