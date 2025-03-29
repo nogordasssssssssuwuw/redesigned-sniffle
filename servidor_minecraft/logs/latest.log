@@ -855,3 +855,9 @@ Missing minecraft:entity_type:
 [29Mar2025 19:22:39.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement ['Tis But a Scratch!]
 [29Mar2025 19:22:56.905] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
 [29Mar2025 19:23:10.856] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[29Mar2025 19:38:01.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/3962, l='ServerLevel[world]', x=-1520.53, y=71.07, z=7015.39] died: Honeyed Archer burned to death
+[29Mar2025 19:44:25.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has reached the goal [Fighting Nightmares]
+[29Mar2025 19:46:25.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [The Wind Darkening]
+[29Mar2025 19:46:43.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has reached the goal [Dark Creator]
+[29Mar2025 19:46:43.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Dark Metallurgy]
+[29Mar2025 19:49:13.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Gina the Warrior'/10043, l='ServerLevel[world]', x=-1192.45, y=65.00, z=6964.58] died: Gina the Warrior was slain by ZzBaal_
