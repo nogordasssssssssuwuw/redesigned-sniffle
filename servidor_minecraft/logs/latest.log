@@ -866,3 +866,4 @@ Missing minecraft:entity_type:
 [29Mar2025 20:01:35.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Doctor Kenskel the Hungry'/12952, l='ServerLevel[world]', x=-1452.79, y=70.00, z=7065.99] died: Doctor Kenskel the Hungry was struck by lightning whilst fighting ZzBaal_
 [29Mar2025 20:02:35.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Good Demoman]
 [29Mar2025 20:04:22.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has reached the goal [Big Boy]
+[29Mar2025 20:10:54.126] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
