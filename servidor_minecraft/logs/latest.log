@@ -592,3 +592,6 @@
 [29Mar2025 15:56:15.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=48, z=1054} BlockPos{x=78, y=49, z=1059}
 [29Mar2025 15:57:01.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [I Am Confusion]
 [29Mar2025 16:00:38.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Carlton the Toasty'/4746, l='ServerLevel[world]', x=166.65, y=59.64, z=1115.78] died: Carlton the Toasty was slain by ZzBaal_
+[29Mar2025 16:00:46.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4002ms or 80 ticks behind
+[29Mar2025 16:05:01.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 10.367337025123561,0.7461092740512356,-0.37327248738057506
+[29Mar2025 16:05:38.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Viscount Sandy'/6044, l='ServerLevel[world]', x=-2113.38, y=-57.10, z=310.44] died: Viscount Sandy was slain by ZzBaal_
