@@ -674,3 +674,28 @@
 [05Apr2025 21:41:33.186] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
 [05Apr2025 21:43:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has reached the goal [Horror Under the Mantle]
 [05Apr2025 21:47:17.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5050, y=-27, z=-1120} BlockPos{x=-5051, y=-28, z=-1120}
+[05Apr2025 21:48:27.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5036, y=-28, z=-1113} BlockPos{x=-5036, y=-29, z=-1114}
+[05Apr2025 21:48:28.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5036, y=-28, z=-1113} BlockPos{x=-5036, y=-29, z=-1114}
+[05Apr2025 21:48:28.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5038, y=-28, z=-1113} BlockPos{x=-5036, y=-29, z=-1114}
+[05Apr2025 21:48:28.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5038, y=-29, z=-1113} BlockPos{x=-5036, y=-29, z=-1114}
+[05Apr2025 21:48:28.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5038, y=-29, z=-1113} BlockPos{x=-5036, y=-29, z=-1114}
+[05Apr2025 21:50:10.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Junior Summoner]
+[05Apr2025 21:50:11.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Piece of Chaos]
+[05Apr2025 21:50:25.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Deceived Hopes]
+[05Apr2025 21:50:38.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Barrel Booty]
+[05Apr2025 21:50:40.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Disme A Dozen]
+[05Apr2025 21:52:12.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [A Bone to Pick]
+[05Apr2025 21:52:14.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [A Bone to Pick]
+[05Apr2025 21:55:52.669] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[05Apr2025 21:57:02.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5097, y=-33, z=-1192} BlockPos{x=-5096, y=-33, z=-1194}
+[05Apr2025 21:57:06.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5097, y=-30, z=-1189} BlockPos{x=-5097, y=-31, z=-1187}
+[05Apr2025 21:57:07.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5097, y=-30, z=-1189} BlockPos{x=-5099, y=-33, z=-1187}
+[05Apr2025 21:57:07.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5097, y=-30, z=-1189} BlockPos{x=-5099, y=-33, z=-1187}
+[05Apr2025 21:57:07.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5101, y=-33, z=-1186} BlockPos{x=-5099, y=-33, z=-1187}
+[05Apr2025 21:57:07.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5101, y=-33, z=-1186} BlockPos{x=-5099, y=-33, z=-1187}
+[05Apr2025 21:57:07.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5101, y=-33, z=-1186} BlockPos{x=-5099, y=-33, z=-1187}
+[05Apr2025 21:57:07.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5102, y=-33, z=-1187} BlockPos{x=-5099, y=-33, z=-1187}
+[05Apr2025 21:57:07.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5102, y=-33, z=-1187} BlockPos{x=-5099, y=-33, z=-1187}
+[05Apr2025 21:57:07.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5103, y=-33, z=-1185} BlockPos{x=-5099, y=-33, z=-1187}
+[05Apr2025 21:57:07.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5103, y=-33, z=-1185} BlockPos{x=-5099, y=-33, z=-1187}
+[05Apr2025 21:58:28.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5070, y=-37, z=-1302} BlockPos{x=-5069, y=-38, z=-1303}
