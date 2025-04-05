@@ -706,3 +706,7 @@
 [05Apr2025 22:13:55.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was shattered by ZzBaal_
 [05Apr2025 22:14:54.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported reiner1411 to ZzBaal_]
 [05Apr2025 22:15:33.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was slain by Spider Moth
+[05Apr2025 22:21:02.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Travel Like an Enderman]
+[05Apr2025 22:22:35.688] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[05Apr2025 22:28:08.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[05Apr2025 22:28:34.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [An Unbreakable and Deadly Bow]

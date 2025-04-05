@@ -3411,6 +3411,18 @@
     },
     "done": true
   },
+  "gobber2:gobber2_bow_end": {
+    "criteria": {
+      "gobber2_bow_end": "2025-04-05 22:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-05 22:21:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-04-05 22:01:46 +0000"
@@ -3480,6 +3492,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-04-05 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_blink": {
+    "criteria": {
+      "gobber2_ring_blink": "2025-04-05 22:21:02 +0000"
     },
     "done": true
   },
