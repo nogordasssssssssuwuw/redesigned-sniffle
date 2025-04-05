@@ -2648,6 +2648,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-28 20:39:24 +0000",
+      "minecraft:spider": "2025-04-05 20:42:27 +0000",
       "minecraft:zombie": "2025-03-28 20:06:20 +0000"
     },
     "done": false
