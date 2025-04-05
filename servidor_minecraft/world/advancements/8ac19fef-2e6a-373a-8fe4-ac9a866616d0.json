@@ -1773,6 +1773,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-23 19:25:18 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-29 22:20:22 +0000",
+      "minecraft:mushroom_fields": "2025-04-05 21:23:05 +0000",
       "minecraft:taiga": "2025-03-29 22:20:03 +0000",
       "minecraft:deep_ocean": "2025-03-23 15:50:45 +0000",
       "minecraft:eroded_badlands": "2025-03-24 05:56:20 +0000",
@@ -6483,6 +6484,24 @@
   "apotheosis:enchanting/arcana50": {
     "criteria": {
       "enchanted_item": "2025-03-29 23:54:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-04-05 21:43:17 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-05 21:26:09 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-05 21:26:09 +0000"
     },
     "done": true
   },
