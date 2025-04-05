@@ -1784,9 +1784,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-03-28 15:02:51 +0000",
+      "minecraft:birch_forest": "2025-04-05 19:13:06 +0000",
       "minecraft:river": "2025-03-28 15:05:56 +0000",
       "minecraft:forest": "2025-03-28 20:23:17 +0000",
       "minecraft:flower_forest": "2025-03-28 15:05:51 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-05 19:12:35 +0000",
       "minecraft:savanna": "2025-03-28 20:30:39 +0000",
       "minecraft:plains": "2025-03-28 15:07:22 +0000"
     },
@@ -2979,6 +2981,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-04-05 18:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-04-05 18:58:41 +0000"
@@ -3033,9 +3041,201 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:bornin_chaos": {
+  "botania:challenge/root": {
     "criteria": {
-      "bornin_chaos_0": "2025-04-05 18:56:48 +0000"
+      "flower": "2025-04-05 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-04-05 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-05 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-04-05 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-04-05 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2025-04-05 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-04-05 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_item": "2025-04-05 19:08:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow": {
+    "criteria": {
+      "has_item": "2025-04-05 19:10:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-05 19:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-05 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-05 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-05 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-05 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-05 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-05 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-05 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-05 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-05 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 19:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-05 19:14:48 +0000"
     },
     "done": true
   },
