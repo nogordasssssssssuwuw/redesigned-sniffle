@@ -699,3 +699,6 @@
 [05Apr2025 21:57:07.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5103, y=-33, z=-1185} BlockPos{x=-5099, y=-33, z=-1187}
 [05Apr2025 21:57:07.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5103, y=-33, z=-1185} BlockPos{x=-5099, y=-33, z=-1187}
 [05Apr2025 21:58:28.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5070, y=-37, z=-1302} BlockPos{x=-5069, y=-38, z=-1303}
+[05Apr2025 22:01:46.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Diamonds!]
+[05Apr2025 22:04:49.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Quite the Renovation]
+[05Apr2025 22:04:54.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Quite the Renovation]
