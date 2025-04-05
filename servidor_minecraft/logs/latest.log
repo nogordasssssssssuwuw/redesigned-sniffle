@@ -610,3 +610,6 @@
 [05Apr2025 19:16:07.126] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of reiner1411 (18)
 [05Apr2025 19:16:07.126] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to reiner1411
 [05Apr2025 19:16:52.763] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to reiner1411 (c1f70191-7c1f-3029-92d4-dd5a9ab0186f)
+[05Apr2025 19:34:12.299] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[05Apr2025 19:35:46.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[05Apr2025 19:36:03.947] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
