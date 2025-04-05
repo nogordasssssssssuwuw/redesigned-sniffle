@@ -717,3 +717,11 @@
 [05Apr2025 22:44:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Hot Stuff]
 [05Apr2025 22:45:54.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [A Better Pickaxe]
 [05Apr2025 22:48:27.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Not a Fluid!]
+[05Apr2025 22:53:33.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1461, y=71, z=7066} BlockPos{x=-1462, y=69, z=7068}
+[05Apr2025 22:53:33.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1461, y=71, z=7066} BlockPos{x=-1462, y=69, z=7068}
+[05Apr2025 22:53:33.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1461, y=71, z=7066} BlockPos{x=-1462, y=69, z=7068}
+[05Apr2025 23:07:23.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was slain by Zombie
+[05Apr2025 23:07:54.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['reiner1411'/55676, l='ServerLevel[world]', x=-1470.35, y=68.00, z=7022.22] died: reiner1411 was slain by ZzBaal_
+[05Apr2025 23:09:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Set own game mode to Creative Mode]
+[05Apr2025 23:09:33.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Set own game mode to Survival Mode]
+[05Apr2025 23:11:51.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Magebloom]
