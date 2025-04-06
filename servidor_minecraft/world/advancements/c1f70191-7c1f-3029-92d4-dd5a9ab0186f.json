@@ -2314,7 +2314,8 @@
       "bread": "2025-04-05 20:57:29 +0000",
       "golden_apple": "2025-04-05 21:45:51 +0000",
       "rotten_flesh": "2025-04-05 20:30:10 +0000",
-      "golden_carrot": "2025-04-05 21:27:09 +0000"
+      "golden_carrot": "2025-04-05 21:27:09 +0000",
+      "carrot": "2025-04-06 00:30:53 +0000"
     },
     "done": false
   },
@@ -4391,9 +4392,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-04-06 00:33:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:apprentice_spell_book": {
     "criteria": {
       "has_apprentice_spell_book": "2025-04-06 00:22:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2025-04-06 00:33:09 +0000"
     },
     "done": true
   },
@@ -4412,6 +4425,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-04-06 00:20:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-04-06 00:38:41 +0000"
     },
     "done": true
   },
