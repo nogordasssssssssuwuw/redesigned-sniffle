@@ -6790,5 +6790,11 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2025-04-06 01:11:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
