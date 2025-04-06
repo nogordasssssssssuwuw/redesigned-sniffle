@@ -34,3 +34,32 @@
 [06Apr2025 00:07:25.926] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ZzBaal_ (8ac19fef-2e6a-373a-8fe4-ac9a866616d0)
 [06Apr2025 00:07:33.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reiner1411 moved too quickly! 12.600811941606025,0.5999984741210938,29.354606484174838
 [06Apr2025 00:10:58.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reiner1411 moved too quickly! 90.03394963080063,-0.40000152587890625,77.83994315332711
+[06Apr2025 00:14:27.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reiner1411 lost connection: Disconnected
+[06Apr2025 00:14:27.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 left the game
+[06Apr2025 00:14:27.503] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c1f70191-7c1f-3029-92d4-dd5a9ab0186f
+[06Apr2025 00:14:27.503] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client reiner1411
+[06Apr2025 00:14:33.369] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Apr2025 00:14:33.515] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Apr2025 00:14:33.515] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Apr2025 00:14:33.551] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Apr2025 00:14:33.651] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Apr2025 00:14:33.652] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Apr2025 00:14:33.656] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Apr2025 00:14:33.789] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Apr2025 00:14:33.792] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Apr2025 00:14:33.797] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Apr2025 00:14:33.931] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Apr2025 00:14:33.931] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Apr2025 00:14:34.299] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Apr2025 00:14:34.299] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Apr2025 00:14:34.311] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Apr2025 00:14:34.366] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Apr2025 00:14:42.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reiner1411[/127.29.101.194:48645] logged in with entity id 73768 at (-1454.5206099966904, 68.0, 7032.365521999144)
+[06Apr2025 00:14:42.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 joined the game
+[06Apr2025 00:14:42.829] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c1f70191-7c1f-3029-92d4-dd5a9ab0186f
+[06Apr2025 00:14:42.830] [Server thread/INFO] [Jade/]: Syncing config to reiner1411 (c1f70191-7c1f-3029-92d4-dd5a9ab0186f)
+[06Apr2025 00:14:43.450] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of reiner1411 (18)
+[06Apr2025 00:14:43.450] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to reiner1411
+[06Apr2025 00:15:02.823] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to reiner1411 (c1f70191-7c1f-3029-92d4-dd5a9ab0186f)
+[06Apr2025 00:20:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Close Quarters]
+[06Apr2025 00:20:14.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Mage's Spell Book]
