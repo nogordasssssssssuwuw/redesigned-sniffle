@@ -86,3 +86,29 @@
 [06Apr2025 00:42:33.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ left the game
 [06Apr2025 00:42:33.549] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8ac19fef-2e6a-373a-8fe4-ac9a866616d0
 [06Apr2025 00:42:33.549] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ZzBaal_
+[06Apr2025 00:44:38.275] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Apr2025 00:44:38.409] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Apr2025 00:44:38.449] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Apr2025 00:44:38.449] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Apr2025 00:44:38.450] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Apr2025 00:44:38.553] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Apr2025 00:44:38.557] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Apr2025 00:44:38.560] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Apr2025 00:44:38.696] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Apr2025 00:44:38.698] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Apr2025 00:44:38.699] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Apr2025 00:44:38.828] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Apr2025 00:44:39.509] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Apr2025 00:44:39.550] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Apr2025 00:44:39.550] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Apr2025 00:44:39.550] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Apr2025 00:44:47.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZzBaal_[/127.29.101.194:47561] logged in with entity id 92296 at (-1462.8944958921668, 68.06597203120327, 7029.8402699215885)
+[06Apr2025 00:44:47.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ joined the game
+[06Apr2025 00:44:47.640] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8ac19fef-2e6a-373a-8fe4-ac9a866616d0
+[06Apr2025 00:44:47.642] [Server thread/INFO] [Jade/]: Syncing config to ZzBaal_ (8ac19fef-2e6a-373a-8fe4-ac9a866616d0)
+[06Apr2025 00:44:48.779] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ZzBaal_ (18)
+[06Apr2025 00:44:48.780] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZzBaal_
+[06Apr2025 00:45:04.520] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ZzBaal_ (8ac19fef-2e6a-373a-8fe4-ac9a866616d0)
+[06Apr2025 00:49:38.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reiner1411 moved too quickly! -503.525854191349,5.599998474121094,553.1788876272531
+[06Apr2025 00:50:17.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reiner1411 moved too quickly! 15.057339077242887,0.5999984741210938,-12.383452646508886
+[06Apr2025 00:52:16.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Get More for Your Hard Work]
