@@ -3747,6 +3747,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_return": {
+    "criteria": {
+      "gobber2_ring_return": "2025-04-06 00:05:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-05 21:14:45 +0000"
