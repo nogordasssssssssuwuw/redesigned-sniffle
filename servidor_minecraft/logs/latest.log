@@ -63,3 +63,14 @@
 [06Apr2025 00:15:02.823] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to reiner1411 (c1f70191-7c1f-3029-92d4-dd5a9ab0186f)
 [06Apr2025 00:20:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Close Quarters]
 [06Apr2025 00:20:14.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Mage's Spell Book]
+[06Apr2025 00:22:11.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Mage's Spell Book]
+[06Apr2025 00:23:25.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[06Apr2025 00:24:12.637] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[06Apr2025 00:24:41.086] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[06Apr2025 00:25:07.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[06Apr2025 00:25:09.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[06Apr2025 00:29:15.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[06Apr2025 00:29:15.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[06Apr2025 00:29:51.085] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[06Apr2025 00:31:31.487] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[06Apr2025 00:32:15.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reiner1411 moved too quickly! 14.361338802577166,2.0,-15.682345697035998
