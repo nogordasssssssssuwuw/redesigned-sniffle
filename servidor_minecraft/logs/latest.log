@@ -115,3 +115,5 @@
 [06Apr2025 00:59:54.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [A Cure for What Ails You]
 [06Apr2025 01:02:22.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Fire is Your Friend]
 [06Apr2025 01:02:41.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 has made the advancement [Apothic Spawners]
+[06Apr2025 01:08:45.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was blown up by reiner1411
+[06Apr2025 01:09:46.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['reiner1411'/102287, l='ServerLevel[world]', x=-1525.46, y=70.00, z=6990.54] died: reiner1411 was shot by Stray

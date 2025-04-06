@@ -2311,6 +2311,7 @@
       "cooked_beef": "2025-03-28 20:35:12 +0000",
       "beef": "2025-03-28 20:40:32 +0000",
       "apple": "2025-03-28 15:18:20 +0000",
+      "spider_eye": "2025-04-06 01:03:21 +0000",
       "bread": "2025-04-05 20:57:29 +0000",
       "golden_apple": "2025-04-05 21:45:51 +0000",
       "rotten_flesh": "2025-04-05 20:30:10 +0000",
@@ -4440,9 +4441,27 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_curing": {
+    "criteria": {
+      "gobber2_ring_curing": "2025-04-06 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_phoenix": {
+    "criteria": {
+      "gobber2_ring_phoenix": "2025-04-06 01:02:22 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2025-04-06 00:38:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-04-06 01:02:41 +0000"
     },
     "done": true
   },
