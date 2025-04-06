@@ -4394,39 +4394,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:dark_metallurgy": {
-    "criteria": {
-      "dark_metallurgy_0": "2025-04-06 00:33:05 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:apprentice_spell_book": {
-    "criteria": {
-      "has_apprentice_spell_book": "2025-04-06 00:22:11 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:pieceof_chaos": {
-    "criteria": {
-      "pieceof_chaos_0": "2025-04-06 00:33:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-06 00:19:42 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_medallion_exp": {
-    "criteria": {
-      "gobber2_medallion_exp": "2025-04-06 00:52:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_the_recipe": "2025-04-06 00:44:52 +0000"
     },
     "done": true
   },
@@ -4442,15 +4412,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/recovery_compass": {
+  "ars_nouveau:apprentice_spell_book": {
     "criteria": {
-      "has_echo_shard": "2025-04-06 01:16:53 +0000"
+      "has_apprentice_spell_book": "2025-04-06 00:22:11 +0000"
     },
     "done": true
   },
-  "majruszsdifficulty:warden_treasure_bag": {
+  "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
-      "bag_opened": "2025-04-06 01:16:53 +0000"
+      "dark_metallurgy_0": "2025-04-06 00:33:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2025-04-06 00:33:09 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-04-06 00:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_the_recipe": "2025-04-06 00:44:52 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_medallion_exp": {
+    "criteria": {
+      "gobber2_medallion_exp": "2025-04-06 00:52:16 +0000"
     },
     "done": true
   },
@@ -4466,15 +4460,21 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-04-06 00:38:41 +0000"
-    },
-    "done": true
-  },
   "apotheosis:spawner/root": {
     "criteria": {
       "spawner": "2025-04-06 01:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-04-06 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-06 01:16:53 +0000"
     },
     "done": true
   },
