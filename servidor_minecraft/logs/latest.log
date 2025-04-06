@@ -585,3 +585,7 @@
 [06Apr2025 14:49:40.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['reiner1411'/1201, l='ServerLevel[world]', x=-1439.76, y=68.00, z=7028.51] died: reiner1411 was slain by reiner1411
 [06Apr2025 14:49:41.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['reiner1411'/1202, l='ServerLevel[world]', x=-1439.33, y=68.00, z=7028.95] died: reiner1411 was slain by reiner1411
 [06Apr2025 14:51:28.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 was slain by Corpse Fly
+[06Apr2025 14:52:38.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reiner1411 lost connection: Disconnected
+[06Apr2025 14:52:38.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reiner1411 left the game
+[06Apr2025 14:52:38.172] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c1f70191-7c1f-3029-92d4-dd5a9ab0186f
+[06Apr2025 14:52:38.175] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client reiner1411
