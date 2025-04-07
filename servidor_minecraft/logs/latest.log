@@ -720,3 +720,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Apr2025 05:04:36.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8996, y=-20, z=7786} BlockPos{x=-8996, y=-21, z=7787}
 [07Apr2025 05:04:38.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8998, y=-26, z=7788} BlockPos{x=-8998, y=-25, z=7788}
 [07Apr2025 05:05:02.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved wrongly!
+[07Apr2025 05:35:05.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
