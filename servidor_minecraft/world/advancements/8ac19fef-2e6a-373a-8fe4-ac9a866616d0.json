@@ -6975,9 +6975,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-07 04:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-07 03:42:18 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-04-07 04:06:58 +0000"
     },
     "done": true
   },
@@ -6990,6 +7002,12 @@
   "majruszsdifficulty:pillager_treasure_bag": {
     "criteria": {
       "bag_opened": "2025-04-07 04:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-07 04:13:03 +0000"
     },
     "done": true
   },

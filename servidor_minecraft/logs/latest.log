@@ -653,3 +653,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Apr2025 03:58:08.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -7.610271968449524,0.0,-6.882428712207002
 [07Apr2025 04:00:20.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has completed the challenge [Hero of the Village]
 [07Apr2025 04:01:34.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [The Guardian]
+[07Apr2025 04:06:58.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Archmage Spell Book]
+[07Apr2025 04:12:28.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-955, y=158, z=-470} BlockPos{x=-953, y=157, z=-470}
+[07Apr2025 04:12:28.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-954, y=158, z=-470} BlockPos{x=-953, y=157, z=-470}
+[07Apr2025 04:12:28.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-954, y=158, z=-470} BlockPos{x=-953, y=157, z=-470}
+[07Apr2025 04:12:28.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-954, y=158, z=-470} BlockPos{x=-953, y=157, z=-470}
+[07Apr2025 04:12:28.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-954, y=158, z=-470} BlockPos{x=-953, y=157, z=-470}
+[07Apr2025 04:14:17.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 8.893646516575927,4.679609198801344,-1.813071608215978
