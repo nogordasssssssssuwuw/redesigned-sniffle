@@ -613,3 +613,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Apr2025 02:44:43.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Wilden Tribute]
 [07Apr2025 02:51:46.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 8.772448515239375,1.0013359791121417,5.314931674245599
 [07Apr2025 02:57:15.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has reached the goal [Bow for Wizards]
+[07Apr2025 03:10:28.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -2.3515435512431395,4.4778325180304535,8.973174860641848
