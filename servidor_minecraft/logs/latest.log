@@ -695,3 +695,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Apr2025 04:55:45.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8773, y=-17, z=7597} BlockPos{x=-8774, y=-17, z=7596}
 [07Apr2025 04:55:45.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8774, y=-18, z=7596} BlockPos{x=-8774, y=-17, z=7596}
 [07Apr2025 04:56:21.722] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Wilson the Thirsty'/64261, l='ServerLevel[world]', x=-8804.70, y=-14.00, z=7623.30] died: Wilson the Thirsty was slain by ZzBaal_
+[07Apr2025 05:02:16.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8981, y=29, z=7735} BlockPos{x=-8981, y=27, z=7737}
+[07Apr2025 05:02:32.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8988, y=17, z=7758} BlockPos{x=-8988, y=16, z=7758}
+[07Apr2025 05:02:35.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8992, y=10, z=7767} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8992, y=10, z=7767} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8992, y=12, z=7767} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8992, y=12, z=7766} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8993, y=11, z=7767} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8992, y=11, z=7768} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8992, y=11, z=7768} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8993, y=9, z=7769} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8993, y=11, z=7769} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8994, y=10, z=7769} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8994, y=10, z=7769} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8994, y=9, z=7770} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8995, y=9, z=7770} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8995, y=9, z=7770} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8994, y=8, z=7770} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8995, y=8, z=7771} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:36.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8995, y=8, z=7771} BlockPos{x=-8991, y=10, z=7767}
+[07Apr2025 05:02:37.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8995, y=8, z=7772} BlockPos{x=-8996, y=7, z=7772}
+[07Apr2025 05:02:37.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8994, y=9, z=7771} BlockPos{x=-8996, y=7, z=7772}
+[07Apr2025 05:02:59.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Tabitha the Nifty'/67507, l='ServerLevel[world]', x=-8978.52, y=-15.00, z=7771.67] died: Tabitha the Nifty was slain by ZzBaal_
+[07Apr2025 05:04:36.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8996, y=-20, z=7786} BlockPos{x=-8996, y=-21, z=7787}
+[07Apr2025 05:04:38.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8998, y=-26, z=7788} BlockPos{x=-8998, y=-25, z=7788}
+[07Apr2025 05:05:02.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved wrongly!
