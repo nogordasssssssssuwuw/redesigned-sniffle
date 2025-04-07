@@ -7011,6 +7011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-04-07 04:52:25 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_interceptor": {
     "criteria": {
       "has_base_block": "2025-04-07 04:21:19 +0000"
