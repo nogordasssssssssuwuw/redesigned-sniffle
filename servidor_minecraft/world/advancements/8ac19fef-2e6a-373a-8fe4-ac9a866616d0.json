@@ -3186,6 +3186,7 @@
       "minecraft:pillager": "2025-03-23 19:33:25 +0000",
       "minecraft:blaze": "2025-03-24 17:25:57 +0000",
       "minecraft:skeleton": "2025-03-23 15:03:44 +0000",
+      "minecraft:ravager": "2025-04-07 03:53:32 +0000",
       "minecraft:ghast": "2025-03-26 05:44:28 +0000",
       "minecraft:hoglin": "2025-03-24 16:54:40 +0000",
       "minecraft:vindicator": "2025-03-29 19:49:13 +0000",
@@ -3194,7 +3195,9 @@
       "minecraft:creeper": "2025-03-23 15:22:44 +0000",
       "minecraft:wither": "2025-03-26 04:47:14 +0000",
       "minecraft:slime": "2025-03-24 05:04:29 +0000",
+      "minecraft:evoker": "2025-04-07 03:55:41 +0000",
       "minecraft:phantom": "2025-03-29 15:41:19 +0000",
+      "minecraft:witch": "2025-04-07 03:54:32 +0000",
       "minecraft:wither_skeleton": "2025-03-24 17:28:53 +0000",
       "minecraft:husk": "2025-03-23 01:40:57 +0000",
       "minecraft:ender_dragon": "2025-03-24 19:28:48 +0000",
@@ -3205,6 +3208,7 @@
       "minecraft:enderman": "2025-03-24 19:10:53 +0000",
       "minecraft:silverfish": "2025-03-24 18:56:33 +0000",
       "minecraft:endermite": "2025-03-24 19:15:48 +0000",
+      "minecraft:vex": "2025-04-07 03:56:19 +0000",
       "minecraft:zombie": "2025-03-23 01:21:48 +0000",
       "minecraft:zombie_villager": "2025-03-23 15:03:47 +0000"
     },
@@ -6974,6 +6978,18 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-07 03:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-07 04:00:20 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-07 04:01:34 +0000"
     },
     "done": true
   },
