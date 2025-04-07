@@ -6975,21 +6975,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-04-07 04:13:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-07 03:42:18 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:archmage_spell_book": {
-    "criteria": {
-      "has_archmage_spell_book": "2025-04-07 04:06:58 +0000"
     },
     "done": true
   },
@@ -7005,9 +6993,27 @@
     },
     "done": true
   },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-04-07 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-07 04:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-04-07 04:13:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2025-04-07 04:21:19 +0000"
     },
     "done": true
   },
