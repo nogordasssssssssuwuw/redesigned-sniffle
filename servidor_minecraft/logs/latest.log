@@ -614,3 +614,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Apr2025 02:51:46.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 8.772448515239375,1.0013359791121417,5.314931674245599
 [07Apr2025 02:57:15.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has reached the goal [Bow for Wizards]
 [07Apr2025 03:10:28.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -2.3515435512431395,4.4778325180304535,8.973174860641848
+[07Apr2025 03:15:00.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZzBaal_: Teleported ZzBaal_ to -959.500000, 72.000000, -479.500000]
+[07Apr2025 03:15:00.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
+[07Apr2025 03:18:12.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ lost connection: Disconnected
+[07Apr2025 03:18:12.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ left the game
+[07Apr2025 03:18:12.719] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8ac19fef-2e6a-373a-8fe4-ac9a866616d0
+[07Apr2025 03:18:12.725] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ZzBaal_
