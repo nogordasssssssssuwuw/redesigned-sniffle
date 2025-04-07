@@ -6814,5 +6814,11 @@
     },
     "done": true
   },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-04-07 01:51:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
