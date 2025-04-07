@@ -3199,6 +3199,7 @@
       "minecraft:husk": "2025-03-23 01:40:57 +0000",
       "minecraft:ender_dragon": "2025-03-24 19:28:48 +0000",
       "minecraft:shulker": "2025-03-26 05:17:28 +0000",
+      "minecraft:cave_spider": "2025-04-07 02:55:14 +0000",
       "minecraft:piglin": "2025-03-24 20:50:40 +0000",
       "minecraft:stray": "2025-03-23 15:54:03 +0000",
       "minecraft:enderman": "2025-03-24 19:10:53 +0000",
@@ -6838,6 +6839,12 @@
     },
     "done": true
   },
+  "ars_nouveau:wilden_explosion": {
+    "criteria": {
+      "wilden_explosion": "2025-04-07 02:44:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-07 02:01:36 +0000"
@@ -6850,9 +6857,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2025-04-07 02:57:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-07 02:01:36 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-04-07 02:44:43 +0000"
     },
     "done": true
   },
