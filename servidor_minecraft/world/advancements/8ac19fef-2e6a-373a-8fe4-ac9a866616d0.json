@@ -6796,9 +6796,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-07 00:20:22 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:soul_eater": {
     "criteria": {
       "soul_eater_0": "2025-04-06 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-07 00:18:27 +0000"
     },
     "done": true
   },
