@@ -836,3 +836,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Apr2025 04:37:11.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 8.481036376124166,4.301913481273957,-3.327056676342181
 [09Apr2025 04:38:18.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -8.305270831963071,-1.182343990273381,6.218284380017394
 [09Apr2025 04:43:33.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 10.33264969400284,-0.7089420110073092,0.858802662938615
+[09Apr2025 04:49:28.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 2.4984918756385923,-0.2522033402537289,-9.935705817552673
+[09Apr2025 04:52:42.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 8.724880470630524,-0.047817277169954764,5.364037800156439
+[09Apr2025 04:55:28.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
