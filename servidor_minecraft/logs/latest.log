@@ -827,3 +827,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Apr2025 03:59:33.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=16, z=-158} BlockPos{x=-190, y=16, z=-158}
 [09Apr2025 03:59:33.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=16, z=-158} BlockPos{x=-190, y=16, z=-158}
 [09Apr2025 03:59:33.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=16, z=-158} BlockPos{x=-190, y=16, z=-158}
+[09Apr2025 04:10:17.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -9.141713779342354,4.388007560589472,-2.2656169710244285
+[09Apr2025 04:10:29.910] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/71796, l='ServerLevel[world]', x=-1560.59, y=74.85, z=7009.23] died: Honeyed Archer burned to death
+[09Apr2025 04:15:24.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Fishy Business]
+[09Apr2025 04:21:08.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -8.567996324294882,1.3849912990804256,5.135565649429736
