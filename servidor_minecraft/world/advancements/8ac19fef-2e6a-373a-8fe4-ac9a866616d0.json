@@ -7121,6 +7121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-09 03:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-09 02:59:47 +0000"
@@ -7130,6 +7136,12 @@
   "majruszsdifficulty:elder_guardian_treasure_bag": {
     "criteria": {
       "bag_opened": "2025-04-09 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-09 03:15:01 +0000"
     },
     "done": true
   },
@@ -7184,6 +7196,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-09 02:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-09 03:15:01 +0000"
     },
     "done": true
   },
