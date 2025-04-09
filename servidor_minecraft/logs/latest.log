@@ -676,3 +676,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Apr2025 02:46:37.982] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ZzBaal_
 [09Apr2025 02:46:49.593] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ZzBaal_ (8ac19fef-2e6a-373a-8fe4-ac9a866616d0)
 [09Apr2025 02:52:34.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -2.20440985188543,4.0,-9.678941915409041
+[09Apr2025 02:58:12.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 6.138594074765933,-7.995013433243287,1.5233973710568307
+[09Apr2025 02:59:36.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2399, y=43, z=767} BlockPos{x=-2402, y=45, z=766}
+[09Apr2025 02:59:36.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2399, y=43, z=767} BlockPos{x=-2402, y=45, z=766}
+[09Apr2025 02:59:36.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2398, y=43, z=768} BlockPos{x=-2402, y=45, z=766}
+[09Apr2025 02:59:37.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2399, y=45, z=767} BlockPos{x=-2399, y=45, z=768}
+[09Apr2025 02:59:37.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2399, y=46, z=767} BlockPos{x=-2399, y=45, z=768}
+[09Apr2025 02:59:37.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2397, y=46, z=767} BlockPos{x=-2399, y=45, z=768}
+[09Apr2025 03:03:26.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Ocean Looter]
+[09Apr2025 03:13:32.130] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[09Apr2025 03:13:58.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-956, y=158, z=-464} BlockPos{x=-956, y=157, z=-463}
+[09Apr2025 03:13:58.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-956, y=158, z=-464} BlockPos{x=-956, y=157, z=-463}
+[09Apr2025 03:13:58.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-957, y=158, z=-464} BlockPos{x=-956, y=157, z=-463}
+[09Apr2025 03:13:58.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-957, y=158, z=-464} BlockPos{x=-956, y=157, z=-463}

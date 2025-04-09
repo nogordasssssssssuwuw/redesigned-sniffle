@@ -3186,9 +3186,11 @@
       "minecraft:pillager": "2025-03-23 19:33:25 +0000",
       "minecraft:blaze": "2025-03-24 17:25:57 +0000",
       "minecraft:skeleton": "2025-03-23 15:03:44 +0000",
+      "minecraft:elder_guardian": "2025-04-09 02:59:14 +0000",
       "minecraft:ravager": "2025-04-07 03:53:32 +0000",
       "minecraft:ghast": "2025-03-26 05:44:28 +0000",
       "minecraft:hoglin": "2025-03-24 16:54:40 +0000",
+      "minecraft:guardian": "2025-04-09 02:58:58 +0000",
       "minecraft:vindicator": "2025-03-29 19:49:13 +0000",
       "minecraft:magma_cube": "2025-03-28 03:41:43 +0000",
       "minecraft:spider": "2025-03-23 15:03:59 +0000",
@@ -7116,6 +7118,120 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-04-09 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-09 02:59:47 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:elder_guardian_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-09 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-09 02:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-09 02:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-09 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-04-09 02:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-09 02:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-09 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-04-09 02:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-04-09 02:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-09 02:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-09 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-04-09 02:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-09 02:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-09 02:58:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-04-09 02:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-09 02:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-09 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-04-09 02:59:47 +0000"
     },
     "done": true
   },
