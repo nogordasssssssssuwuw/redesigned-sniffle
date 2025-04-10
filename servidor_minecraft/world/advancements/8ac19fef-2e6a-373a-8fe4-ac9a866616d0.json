@@ -7319,5 +7319,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-10 15:22:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-04-10 15:22:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
