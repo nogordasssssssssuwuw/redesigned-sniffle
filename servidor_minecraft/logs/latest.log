@@ -684,3 +684,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Apr2025 19:16:33.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/97110, l='ServerLevel[world]', x=-8800.80, y=73.00, z=8581.12] died: The Killer Bunny was slain by ZzBaal_
 [10Apr2025 19:17:13.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/97787, l='ServerLevel[world]', x=-8834.37, y=64.32, z=8650.47] died: The Killer Bunny was slain by ZzBaal_
 [10Apr2025 19:17:56.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 10.067202942245785,2.9956476464206787,1.7229494189268735
+[10Apr2025 20:06:45.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -9.84306926557133,4.083681133746168,-1.256538866738083
