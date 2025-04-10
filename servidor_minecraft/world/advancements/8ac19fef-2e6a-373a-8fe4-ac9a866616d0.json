@@ -7295,5 +7295,17 @@
     },
     "done": true
   },
+  "ars_elemental:mark_of_mastery": {
+    "criteria": {
+      "has_mark_of_mastery": "2025-04-10 05:29:49 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2025-04-10 05:23:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
