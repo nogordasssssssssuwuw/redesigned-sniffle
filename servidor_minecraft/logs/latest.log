@@ -673,3 +673,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Apr2025 18:36:18.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Grave Ravager]
 [10Apr2025 18:38:44.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -4.042248959821791,3.7859656046434935,8.761297116758215
 [10Apr2025 18:39:54.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -4.229700429651075,-0.047817277169954764,9.118762233994858
+[10Apr2025 18:52:29.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -0.3674869639953613,4.080138374794075,9.41556689744175
+[10Apr2025 18:53:39.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 0.38670156534499256,0.880039138572954,10.206331135599612
+[10Apr2025 18:57:22.928] [Worker-Main-254/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[10Apr2025 19:03:45.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[10Apr2025 19:03:51.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[10Apr2025 19:04:03.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! 9.161721675972785,4.6584170696064575,-0.6566701409628877
+[10Apr2025 19:05:27.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1459, y=68, z=7048} BlockPos{x=-1459, y=67, z=7047}
