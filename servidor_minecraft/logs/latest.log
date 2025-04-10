@@ -666,3 +666,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Apr2025 17:39:06.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-235, y=33, z=-206} BlockPos{x=-235, y=33, z=-205}
 [10Apr2025 18:05:12.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -3.9368711871629785,-6.0,-7.576820853967547
 [10Apr2025 18:06:26.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -2.9626245807415046,3.6992380488573247,9.048651797796992
+[10Apr2025 18:16:51.228] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
+[10Apr2025 18:22:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Best Friends Forever]
