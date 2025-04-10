@@ -668,3 +668,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Apr2025 18:06:26.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -2.9626245807415046,3.6992380488573247,9.048651797796992
 [10Apr2025 18:16:51.228] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
 [10Apr2025 18:22:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Best Friends Forever]
+[10Apr2025 18:31:47.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -5.6811641415558825,0.25799910351528865,8.442756338772597
+[10Apr2025 18:32:58.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -6.001852590349245,0.42355929454303975,8.34906037331075
+[10Apr2025 18:36:18.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZzBaal_ has made the advancement [Grave Ravager]
+[10Apr2025 18:38:44.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -4.042248959821791,3.7859656046434935,8.761297116758215
+[10Apr2025 18:39:54.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZzBaal_ moved too quickly! -4.229700429651075,-0.047817277169954764,9.118762233994858

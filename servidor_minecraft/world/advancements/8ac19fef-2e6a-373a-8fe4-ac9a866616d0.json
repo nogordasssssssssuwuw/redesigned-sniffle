@@ -7409,6 +7409,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-04-10 18:36:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/mana_detector": {
     "criteria": {
       "has_item": "2025-04-10 16:56:31 +0000"
