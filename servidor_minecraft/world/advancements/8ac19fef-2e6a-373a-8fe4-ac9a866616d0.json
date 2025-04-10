@@ -7121,39 +7121,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "has_lilac": "2025-04-09 04:39:02 +0000"
+      "has_nautilus_core": "2025-04-09 02:54:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
+  "botania:recipes/tools/water_ring": {
     "criteria": {
-      "has_kelp": "2025-04-09 03:15:01 +0000"
+      "has_item": "2025-04-09 02:54:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+  "botania:recipes/decorations/prism": {
     "criteria": {
-      "has_prismarine": "2025-04-09 02:59:47 +0000"
+      "has_item": "2025-04-09 02:58:59 +0000"
     },
     "done": true
   },
-  "majruszsdifficulty:elder_guardian_treasure_bag": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "bag_opened": "2025-04-09 03:03:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-04-09 04:15:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-04-09 03:15:01 +0000"
+      "has_prismarine_crystals": "2025-04-09 02:58:59 +0000"
     },
     "done": true
   },
@@ -7163,15 +7151,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sponge": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_wet_sponge": "2025-04-09 02:59:16 +0000"
+      "has_cod": "2025-04-09 02:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-09 02:59:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2025-04-09 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-09 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-09 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-09 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-09 02:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-09 02:59:47 +0000"
     },
     "done": true
   },
@@ -7187,27 +7211,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2025-04-09 02:59:09 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/prism": {
-    "criteria": {
-      "has_item": "2025-04-09 02:58:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2025-04-09 02:54:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-09 02:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-04-09 02:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-04-09 02:59:47 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:elder_guardian_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-09 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-09 03:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-09 03:15:01 +0000"
     },
     "done": true
   },
@@ -7223,63 +7259,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2025-04-09 04:23:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2025-04-09 02:59:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2025-04-09 02:59:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-04-09 03:49:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-04-09 02:59:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-04-09 02:58:59 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/water_ring": {
-    "criteria": {
-      "has_item": "2025-04-09 02:54:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-04-09 02:59:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
-    "criteria": {
-      "has_prismarine_bricks": "2025-04-09 02:59:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
-    "criteria": {
-      "has_prismarine": "2025-04-09 02:59:47 +0000"
     },
     "done": true
   },
@@ -7289,9 +7271,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-04-09 04:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-04-09 04:23:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_the_recipe": "2025-04-09 04:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-09 04:39:02 +0000"
     },
     "done": true
   },
